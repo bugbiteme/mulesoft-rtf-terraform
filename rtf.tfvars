@@ -1,6 +1,6 @@
 anypoint_region = "us-east-2"
-cluster_name="dmv-test-rtf" 
-key_pair="LL-TEST-key" 
+cluster_name="<call it whatever makes sense>" 
+key_pair="<aws key pair name>" 
 controllers=1 
 workers=2 
 enable_public_ips=true 
