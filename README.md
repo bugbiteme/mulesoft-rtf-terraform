@@ -3,7 +3,7 @@ Files and notes to be used in the assistance of deploying MuleSoft Runtime Fabri
 
 ## Notes
 If you create a new VPC, it will create 3 subnets (41 objects)
-If you are using and existing VCP, you asle need tp provide a list of subnets and terraform will round robin provision accross subnets
+If you are using an existing VCP, you need to provide a list of subnets and terraform will round robin provision accross subnets
 
 check status of deployment
 
