@@ -1,4 +1,3 @@
-anypoint_region = "us-east-2"
 cluster_name="<call it whatever makes sense>" 
 key_pair="<aws key pair name>" 
 controllers=1 
